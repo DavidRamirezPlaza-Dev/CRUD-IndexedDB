@@ -1,0 +1,20 @@
+/** 
+.divCentro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+**/
+
+.divCentroIzquierda{
+	display: flex;
+	justify-content: left;
+	align-items: left;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.divIzquierda{
+	display: flex;
+	justify-content: left;
+	align-items: left;
+}
